@@ -1,0 +1,27 @@
+<svg width="223" height="114.09" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient y2="0.29602" x2="0.89982" y1="0.63319" x1="-0.2474" id="linear-gradient">
+   <stop stop-color="#89b6ef" offset="0"/>
+   <stop stop-color="#85b1ef" offset="0.19"/>
+   <stop stop-color="#7aa3ef" offset="0.41"/>
+   <stop stop-color="#688cef" offset="0.64"/>
+   <stop stop-color="#4e6bef" offset="0.89"/>
+   <stop stop-color="#4059ef" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="1.23254" x2="0.74611" y1="0.15767" x1="0.35513" id="linear-gradient-2">
+   <stop stop-color="#3047e0" offset="0"/>
+   <stop stop-color="#2f46de" offset="1"/>
+  </linearGradient>
+ </defs>
+ <title>Untitled-1</title>
+ <g>
+  <title>Layer 1</title>
+  <g data-name="Layer 3" id="Layer_3">
+   <polygon id="svg_1" fill="url(#linear-gradient)" points="0,87.81999969482422 24.90999984741211,21 45,21 60.59000015258789,63.910003662109375 0,87.81999969482422 " class="cls-1"/>
+  </g>
+  <g data-name="Layer 4" id="Layer_4">
+   <polygon id="svg_2" fill="url(#linear-gradient-2)" points="60.59000015258789,63.910003662109375 69.2699966430664,87.81999969482422 50.29999923706055,87.81999969482422 31.34000015258789,75.44999694824219 60.59000015258789,63.910003662109375 " class="cls-2"/>
+   <text id="svg_3" x="71.84" y="87.82" font-weight="700" font-family="Poppins-Bold, Poppins" font-size="78px" class="cls-3">tlas</text>
+  </g>
+ </g>
+</svg>
