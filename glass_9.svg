@@ -1,0 +1,25 @@
+<svg width="88.25" height="46.67" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient y2="0.48771" x2="0.99703" y1="0.50335" x1="-0.00977" id="linear-gradient">
+   <stop stop-color="#8cbaef" offset="0"/>
+   <stop stop-color="#3d55ef" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="0" x2="0.49967" y1="1" x1="0.49967" id="linear-gradient-2">
+   <stop stop-color="#3d55ef" offset="0.01"/>
+   <stop stop-color="#14227b" offset="1"/>
+  </linearGradient>
+ </defs>
+ <title>glass-9</title>
+ <g>
+  <title>Layer 1</title>
+  <g data-name="Layer 2" id="Layer_2">
+   <polygon id="svg_1" fill="url(#linear-gradient)" points="0.7700004577636719,35.333335876464844 10.319999694824219,8.473333358764648 18.360000610351562,8.473333358764648 24.310001373291016,25.573333740234375 0.7700004577636719,35.333335876464844 " class="cls-1"/>
+  </g>
+  <g data-name="Layer 3" id="Layer_3">
+   <polygon id="svg_2" fill="url(#linear-gradient-2)" points="24.310001373291016,25.573333740234375 27.90999984741211,35.333335876464844 20.990001678466797,35.333335876464844 12.540000915527344,30.453332901000977 24.310001373291016,25.573333740234375 " class="cls-2"/>
+  </g>
+  <g data-name="Layer 4" id="Layer_4">
+   <text id="svg_3" x="27" y="35.33333" font-weight="700" font-family="Poppins-Bold, Poppins" font-size="32px" class="cls-3">tlas</text>
+  </g>
+ </g>
+</svg>
